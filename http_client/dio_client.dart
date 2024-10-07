@@ -8,6 +8,7 @@ import 'package:pretty_dio_logger/pretty_dio_logger.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 import '../exceptions/api_exceptions.dart';
+import '../exceptions/http_client_exceptions.dart';
 
 part 'http_client.g.dart';
 
